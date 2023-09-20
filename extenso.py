@@ -1,8 +1,8 @@
 import re
 '''
-    Reads as input a number between -99999 and 99999, and write it in full in Portuguese.
+    Reads as input a number between -999999 and 999999, and write it in full in Portuguese.
 
-    Recebe como entrada um número entre -99999 e 99999 e o escreve por extenso em português.
+    Recebe como entrada um número entre -999999 e 999999 e o escreve por extenso em português.
 '''
 def extenso(s):
     u = ["", "um", "dois", "três", "quatro", "cinco", "seis", "sete", "oito", "nove",
